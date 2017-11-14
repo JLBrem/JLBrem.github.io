@@ -220,6 +220,9 @@ header .header-content .header-content-inner p {
     margin: 20px auto 0;
   }
 }
+.barlow-font{
+  font-family: 'Barlow Condensed', sans-serif;
+}
 .service-box p {
   margin-bottom: 0;
 }
