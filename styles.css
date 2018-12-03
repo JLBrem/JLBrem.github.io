@@ -16,10 +16,6 @@ ul {
     list-style-position: inside;
 }
 
-li {
-    text-align: center;
-}
-
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
