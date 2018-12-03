@@ -1,15 +1,14 @@
 h1 {
-    padding = 35px;
-    margin = 30px;
-    text-align = center;
+    padding: 35px;
+    text-align: center;
 }
 
 h2 {
-    text-align = center;
+    text-align: center;
 }
 
 p {
-    text-align = center;
+    text-align: center;
 }
 
 /* Add a black background color to the top navigation */
